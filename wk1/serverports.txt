@@ -1,7 +1,7 @@
 1) What is the definition of the server port?
 
-The answer is it is a way to identify a specific process to which an internet or other network 
-message is to be forwarded when it arrives at a server.
+The answer is it is a communication endpoint. Physical and wireless connections are 
+terminated at ports of hardware devices, and are identified by 16-bit unsigned numbers.
 
 2) What is server port range?
 
