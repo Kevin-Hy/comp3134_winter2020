@@ -1,0 +1,49 @@
+Domain Name: outlook.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 40.97.164.146
+
+Geolocation: US (United States), IA, Iowa, 50307 Des Moines
+
+Domain Name: yahoo.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 72.30.35.9
+
+Geolocation: US (United States), CA, California, 94089 Sunnyvale
+
+Domain Name: gleam.io
+
+Top Level Domain: IO (British Indian Ocean Territory)
+
+DNS Lookup
+
+IP Address: 108.170.54.74
+
+Geolocation: US (United States), AZ, Arizona, 85281 Tempe
+
+Domain Name: webtoons.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 125.209.214.12
+
+Geolocation: KR (Korea, Republic of), N/A, N/A, N/A N/A
+
+Domain Name: bing.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 204.79.197.200
+
+Geolocation: US (United States), WA, Washington, 98052 Redmond

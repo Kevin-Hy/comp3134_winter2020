@@ -1,0 +1,8 @@
+PING 138.197.170.55 (138.197.170.55) 56(84) bytes of data.
+64 bytes from 138.197.170.55: icmp_seq=1 ttl=64 time=0.034 ms
+64 bytes from 138.197.170.55: icmp_seq=2 ttl=64 time=0.057 ms
+64 bytes from 138.197.170.55: icmp_seq=3 ttl=64 time=0.065 ms
+
+--- 138.197.170.55 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2042ms
+rtt min/avg/max/mdev = 0.034/0.052/0.065/0.013 ms

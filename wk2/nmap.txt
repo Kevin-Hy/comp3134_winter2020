@@ -1,0 +1,42 @@
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 19:40 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.00085s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:800::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 19:41 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.0012s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+
+PORT   STATE    SERVICE
+23/tcp filtered telnet
+
+Nmap done: 1 IP address (1 host up) scanned in 0.54 seconds
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 19:42 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:800::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+Not shown: 99 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.82 seconds
+
+Nmap scan report for myanimelist.net (54.201.220.202)
+Host is up (0.062s latency).
+Other addresses for myanimelist.net (not scanned): 52.10.141.225
+rDNS record for 54.201.220.202: ec2-54-201-220-202.us-west-2.compute.amazonaws.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.85 seconds

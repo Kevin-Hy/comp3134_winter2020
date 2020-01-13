@@ -1,0 +1,112 @@
+Domain Name: REDDIT.COM
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2017-07-12T19:18:12Z
+Creation Date: 2005-04-29T17:59:19Z
+Registry Expiry Date: 2020-04-29T17:59:19Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS-1029.AWSDNS-00.ORG
+Name Server: NS-1887.AWSDNS-43.CO.UK
+Name Server: NS-378.AWSDNS-47.COM
+Name Server: NS-557.AWSDNS-05.NET
+DNSSEC: unsigned
+
+Domain Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-01-14T10:32:15Z
+Creation Date: 2005-02-15T05:13:12Z
+Registry Expiry Date: 2020-02-15T05:13:12Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: http://www.registrarsafe.com
+Updated Date: 2019-10-17T18:52:06Z
+Creation Date: 1997-03-29T05:00:00Z
+Registry Expiry Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: abusecomplaints@registrarsafe.com
+Registrar Abuse Contact Phone: +1-650-308-7004
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+DNSSEC: unsigned
+
+Domain Name: TWITTER.COM
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+Updated Date: 2018-12-07T19:32:35Z
+Creation Date: 2000-01-21T16:28:17Z
+Registry Expiry Date: 2020-01-21T16:28:17Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: A.R06.TWTRDNS.NET
+Name Server: B.R06.TWTRDNS.NET
+Name Server: C.R06.TWTRDNS.NET
+Name Server: D.R06.TWTRDNS.NET
+Name Server: D01-01.NS.TWTRDNS.NET
+Name Server: D01-02.NS.TWTRDNS.NET
+Name Server: NS3.P34.DYNECT.NET
+Name Server: NS4.P34.DYNECT.NET
+DNSSEC: unsigned
+
+Domain Name: MYANIMELIST.NET
+Registry Domain ID: 394447295_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2019-02-25T08:20:26Z
+Creation Date: 2006-04-01T01:16:01Z
+Registry Expiry Date: 2020-04-01T00:16:01Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1425.AWSDNS-50.ORG
+Name Server: NS-1875.AWSDNS-42.CO.UK
+Name Server: NS-671.AWSDNS-19.NET
+Name Server: NS-99.AWSDNS-12.COM
+DNSSEC: unsigned
