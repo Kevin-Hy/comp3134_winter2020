@@ -1,0 +1,11 @@
+tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+21:02:34.053118 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 68821936:68822044, ack 3278113445, win 313, length 108
+21:02:34.053218 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 108:144, ack 1, win 313, length 36
+21:02:34.053318 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 144:252, ack 1, win 313, length 108
+21:02:34.053391 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 252:288, ack 1, win 313, length 36
+21:02:34.055444 IP 198.96.84.204.56339 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 288, win 512, length 0
+5 packets captured
+15 packets received by filter
+4 packets dropped by kernel

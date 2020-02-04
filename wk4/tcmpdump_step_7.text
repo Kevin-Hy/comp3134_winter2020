@@ -1,0 +1,17 @@
+tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+21:06:12.606768 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 75587564:75587608, ack 3278121333, win 313, length 44
+21:06:12.606881 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 44:152, ack 1, win 313, length 108
+21:06:12.606955 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 152:188, ack 1, win 313, length 36
+21:06:12.609240 IP 198.96.84.204.56339 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 188, win 508, length 0
+21:06:14.111956 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 222.186.173.180.63932: Flags [P.], seq 1330102441:1330102509, ack 2625276555, win 246, options [nop,nop,TS val 516342906 ecr 2896623386], length 68
+21:06:14.161595 IP 211.144.119.182.58392 > ubuntu-cyber-security-kevin-hy-wk1.ms-sql-s: Flags [S], seq 1797741459, win 1024, length 0
+21:06:14.161643 IP ubuntu-cyber-security-kevin-hy-wk1.ms-sql-s > 211.144.119.182.58392: Flags [R.], seq 0, ack 1797741460, win 0, length 0
+21:06:14.324961 IP 222.186.173.180.63932 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 68, win 262, options [nop,nop,TS val 2896623924 ecr 516342906], length 0
+21:06:14.514949 IP 211.144.119.182.58392 > ubuntu-cyber-security-kevin-hy-wk1.ms-sql-s: Flags [R], seq 1797741460, win 1200, length 0
+21:06:15.324950 IP 222.186.173.180.63932 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [P.], seq 1:85, ack 68, win 262, options [nop,nop,TS val 2896624174 ecr 516342906], length 84
+21:06:15.325006 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 222.186.173.180.63932: Flags [.], ack 85, win 246, options [nop,nop,TS val 516344119 ecr 2896624174], length 0
+21:06:17.009093 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 222.186.173.180.63932: Flags [P.], seq 68:136, ack 85, win 246, options [nop,nop,TS val 516345803 ecr 2896624174], length 68
+21:06:17.222434 IP 222.186.173.180.63932 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 136, win 262, options [nop,nop,TS val 2896624649 ecr 516345803], length 0
+21:06:18.222213 IP 222.186.173.180.63932 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [P.], seq 85:169, ack 136, win 262, options [nop,nop,TS val 2896624899 ecr 516345803], length 84
+21:06:18.222270 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 222.186.173.180.63932: Flags [.], ack 169, win 246, options [nop,nop,TS val 516347016 ecr 2896624899], length 0

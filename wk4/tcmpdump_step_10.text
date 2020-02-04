@@ -1,0 +1,25 @@
+tcpdump -i eth0 port 22
+21:09:04.909165 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 688428:688608, ack 361, win 313, length 180
+21:09:04.909299 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 688608:688788, ack 361, win 313, length 180
+21:09:04.909452 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 688788:688968, ack 361, win 313, length 180
+21:09:04.909601 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 688968:689148, ack 361, win 313, length 180
+21:09:04.909749 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 689148:689328, ack 361, win 313, length 180
+21:09:04.909919 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 689328:689508, ack 361, win 313, length 180
+21:09:04.910142 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 689508:689688, ack 361, win 313, length 180
+21:09:04.910262 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 689688:689868, ack 361, win 313, length 180
+21:09:04.910366 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 689868:690048, ack 361, win 313, length 180
+21:09:04.910471 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690048:690228, ack 361, win 313, length 180
+21:09:04.910573 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690228:690408, ack 361, win 313, length 180
+21:09:04.910675 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690408:690588, ack 361, win 313, length 180
+21:09:04.910778 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690588:690768, ack 361, win 313, length 180
+21:09:04.910880 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690768:690948, ack 361, win 313, length 180
+21:09:04.910983 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 690948:691128, ack 361, win 313, length 180
+21:09:04.914491 IP 198.96.84.204.56339 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 672888, win 510, length 0
+21:09:04.914526 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 691128:691308, ack 361, win 313, length 180
+21:09:04.914774 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 691308:691608, ack 361, win 313, length 300
+21:09:04.914906 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 691608:691788, ack 361, win 313, length 180
+21:09:04.914945 IP 198.96.84.204.56339 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [P.], seq 361:397, ack 672888, win 510, length 36
+^C
+3900 packets captured
+3916 packets received by filter
+16 packets dropped by kernel

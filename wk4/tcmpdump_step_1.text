@@ -1,0 +1,23 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+21:01:01.083634 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 68362208:68362316, ack 3278112185, win 313, length 108
+21:01:01.083733 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 108:144, ack 1, win 313, length 36
+21:01:01.083825 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 144:252, ack 1, win 313, length 108
+21:01:01.083896 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 252:288, ack 1, win 313, length 36
+21:01:01.085808 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 288:476, ack 1, win 313, length 188
+21:01:01.085899 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 476:512, ack 1, win 313, length 36
+21:01:01.086075 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 512:684, ack 1, win 313, length 172
+21:01:01.086151 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 684:720, ack 1, win 313, length 36
+21:01:01.086287 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 720:892, ack 1, win 313, length 172
+21:01:01.087745 IP 198.96.84.204.56339 > ubuntu-cyber-security-kevin-hy-wk1.ssh: Flags [.], ack 512, win 512, length 0
+21:01:01.087780 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 892:2176, ack 1, win 313, length 1284
+21:01:01.087907 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2176:2332, ack 1, win 313, length 156
+21:01:01.088042 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2332:2368, ack 1, win 313, length 36
+21:01:01.088169 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2368:2540, ack 1, win 313, length 172
+21:01:01.088242 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2540:2576, ack 1, win 313, length 36
+21:01:01.088334 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2576:2748, ack 1, win 313, length 172
+21:01:01.088404 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2748:2784, ack 1, win 313, length 36
+21:01:01.088507 IP ubuntu-cyber-security-kevin-hy-wk1.ssh > 198.96.84.204.56339: Flags [P.], seq 2784:2956, ack 1, win 313, length 172
+2579 packets captured
+2588 packets received by filter
+9 packets dropped by kernel
