@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+We can see several directories on the screen.
+• What sensitive information is given by this page
+Directories that are 2 levels above our previous levels 
+are seen here.

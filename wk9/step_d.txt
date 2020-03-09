@@ -1,0 +1,9 @@
+• What you see on the browser (the issue)
+There is no directory hello, so it's blank. A proper directory entry
+would show items inside that directory
+• What tactic subcategory this issue would be categorized as
+This would be a request injection.
+• What sensitive information is given by this page
+If you were to enter a proper directory, you would be able 
+to access possible sensitive directories and files, but this directory contains
+nothing as it doesn't exist

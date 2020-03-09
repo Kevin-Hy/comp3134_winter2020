@@ -1,0 +1,56 @@
+tcpdump icmp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:08:06.599774 IP (tos 0xc0, ttl 64, id 63227, offset 0, flags [none], proto ICMP (1), length 153)
+    ubuntu-cyber-security-kevin-hy-wk1 > 218.75.38.210: ICMP ubuntu-cyber-security-kevin-hy-wk1 udp port 1900 unreachable, length 133
+        IP (tos 0x0, ttl 111, id 3276, offset 0, flags [DF], proto UDP (17), length 125)
+    218.75.38.210.37793 > ubuntu-cyber-security-kevin-hy-wk1.1900: [udp sum ok] UDP, length 97
+        0x0000:  45c0 0099 f6fb 0000 4001 4c8e 8ac5 aa37  E.......@.L....7
+        0x0010:  da4b 26d2 0303 3392 0000 0000 4500 007d  .K&...3.....E..}
+        0x0020:  0ccc 4000 6f11 c889 da4b 26d2 8ac5 aa37  ..@.o....K&....7
+        0x0030:  93a1 076c 0069 f30d 4d2d 5345 4152 4348  ...l.i..M-SEARCH
+        0x0040:  202a 2048 5454 502f 312e 310d 0a48 6f73  .*.HTTP/1.1..Hos
+        0x0050:  743a 3233 392e 3235 352e 3235 352e 3235  t:239.255.255.25
+        0x0060:  303a 3139 3030 0d0a 5354 3a75 706e 703a  0:1900..ST:upnp:
+        0x0070:  726f 6f74 6465 7669 6365 0d0a 4d61 6e3a  rootdevice..Man:
+        0x0080:  2273 7364 703a 6469 7363 6f76 6572 220d  "ssdp:discover".
+        0x0090:  0a4d 583a 330d 0a0d 0a                   .MX:3....
+
+Source Host 10.4.64.132
+Source Port 60290
+Destination Host 138.197.170.55
+Destination Port 1000
+
+tcpdump icmp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:10:03.267129 IP (tos 0xc0, ttl 64, id 18228, offset 0, flags [none], proto ICMP (1), length 96)
+    ubuntu-cyber-security-kevin-hy-wk1 > 218.75.38.210: ICMP ubuntu-cyber-security-kevin-hy-wk1 udp port nfs unreachable, length 76
+        IP (tos 0x0, ttl 115, id 381, offset 0, flags [DF], proto UDP (17), length 68)
+    218.75.38.210.56757 > ubuntu-cyber-security-kevin-hy-wk1.nfs: NFS request xid 0 40 null
+        0x0000:  45c0 0060 4734 0000 4001 fc8e 8ac5 aa37  E..`G4..@......7
+        0x0010:  da4b 26d2 0303 3359 0000 0000 4500 0044  .K&...3Y....E..D
+        0x0020:  017d 4000 7311 d011 da4b 26d2 8ac5 aa37  .}@.s....K&....7
+        0x0030:  ddb5 0801 0030 5d14 0000 0000 0000 0000  .....0].........
+        0x0040:  0000 0002 0001 86a3 0000 0002 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+
+Source Host 10.4.64.132
+Source Port 60290
+Destination Host 138.197.170.55
+Destination Port 100
+
+ tcpdump icmp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:10:41.974197 IP (tos 0xc0, ttl 64, id 21345, offset 0, flags [none], proto ICMP (1), length 68)
+    ubuntu-cyber-security-kevin-hy-wk1 > 218.75.38.210: ICMP ubuntu-cyber-security-kevin-hy-wk1 udp port 2123 unreachable, length 48
+        IP (tos 0x0, ttl 111, id 2105, offset 0, flags [DF], proto UDP (17), length 40)
+    218.75.38.210.61536 > ubuntu-cyber-security-kevin-hy-wk1.2123: [udp sum ok] UDP, length 12
+        0x0000:  45c0 0044 5361 0000 4001 f07d 8ac5 aa37  E..DSa..@..}...7
+        0x0010:  da4b 26d2 0303 333d 0000 0000 4500 0028  .K&...3=....E..(
+        0x0020:  0839 4000 6f11 cd71 da4b 26d2 8ac5 aa37  .9@.o..q.K&....7
+        0x0030:  f060 084b 0014 92fa 3201 0004 0000 0000  .`.K....2.......
+        0x0040:  0c00 0000  
+                                      ....
+Source Host 10.4.64.132
+Source Port 60290
+Destination Host 138.197.170.55
+Destination Port 45

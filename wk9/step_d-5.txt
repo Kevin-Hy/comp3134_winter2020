@@ -1,0 +1,6 @@
+What you see on the browser (the issue)
+We can see the html directory, which is under the www directory. 
+• What sensitive information is given by this page
+We are in a directory that can possibly contain sensitive information,
+and further probing could reveal information from directories not
+meant to be seen.

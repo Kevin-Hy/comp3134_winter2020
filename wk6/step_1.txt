@@ -1,0 +1,42 @@
+ tcpdump udp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:02:55.364912 IP (tos 0x0, ttl 111, id 266, offset 0, flags [DF], proto UDP (17), length 57)
+    218.75.38.210.12643 > ubuntu-cyber-security-kevin-hy-wk1.rmiregistry: [bad udp cksum 0x31a8 -> 0x320d!] UDP, length 29
+        0x0000:  4500 0039 010a 4000 6f11 d48f da4b 26d2  E..9..@.o....K&.
+        0x0010:  8ac5 aa37 3163 044b 0025 31a8 37aa 0100  ...71c.K.%1.7...
+        0x0020:  0001 0000 0000 0000 0377 7777 0331 3633  .........www.163
+        0x0030:  0363 6f6d 0000 0100 01                   .com.....
+
+
+Source Host 10.4.64.132
+Source Port 55426
+Destination Host 138.197.170.55
+Destination Port 8125
+
+tcpdump udp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:05:30.642822 IP (tos 0x0, ttl 111, id 3678, offset 0, flags [DF], proto UDP (17), length 57)
+    218.75.38.210.20501 > ubuntu-cyber-security-kevin-hy-wk1.1521: [bad udp cksum 0x10b6 -> 0x11b5!] UDP, length 29
+        0x0000:  4500 0039 0e5e 4000 6f11 c73b da4b 26d2  E..9.^@.o..;.K&.
+        0x0010:  8ac5 aa37 5015 05f1 0025 10b6 37aa 0100  ...7P....%..7...
+        0x0020:  0001 0000 0000 0000 0377 7777 0331 3633  .........www.163
+        0x0030:  0363 6f6d 0000 0100 01                   .com.....
+
+Source Host 10.4.64.132
+Source Port 55426
+Destination Host 138.197.170.55
+Destination Port 9150
+
+tcpdump udp -vv -X
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:06:48.653497 IP (tos 0x0, ttl 111, id 1658, offset 0, flags [DF], proto UDP (17), length 57)
+    218.75.38.210.22366 > ubuntu-cyber-security-kevin-hy-wk1.1720: [bad udp cksum 0x0940 -> 0x09a5!] UDP, length 29
+        0x0000:  4500 0039 067a 4000 6f11 cf1f da4b 26d2  E..9.z@.o....K&.
+        0x0010:  8ac5 aa37 575e 06b8 0025 0940 37aa 0100  ...7W^...%.@7...
+        0x0020:  0001 0000 0000 0000 0377 7777 0331 3633  .........www.163
+        0x0030:  0363 6f6d 0000 0100 01                   .com.....
+
+Source Host 10.4.64.132
+Source Port 55426
+Destination Host 138.197.170.55
+Destination Port 4475
