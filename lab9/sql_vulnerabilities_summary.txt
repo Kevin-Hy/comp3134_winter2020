@@ -1,0 +1,18 @@
+FOR getusers_1.php
+
+1) Nothing shows up, that is because Ben is in the database, but active = 0 so it would not satisfy the condition
+
+2) Ben shows up as a query result, as the '-- ignores the rest of the result, so active will be ignored.
+
+3) No result shows up because there is an opening and closing quote, the ben' or 1=1 will essentially look like this in sql
+select * from users where firstname='ben' or 1=1' and active=1; which would not work because of the quote.
+
+
+FOR getusers_2.php
+
+1)As the same, Ben is db, but active = 0. Will not show
+
+2)Does not show up, as the prepared statement disallows these sort of injections/vunerability
+to modify the SQL statement.
+
+3)Nothing shows up, as said above the prepared statement will project from sql injection.
