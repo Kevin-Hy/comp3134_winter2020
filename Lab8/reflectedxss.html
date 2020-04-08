@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lab8</title>
+</head>
+<body>
+    <h1 id="h1tag">REFLECTED XSS</h1>
+    <form method="GET" id="form1">
+        <input type="text" name="form1" id="form2">
+        <button type="submit">Submit</button>
+    </form>
+    <br>
+    <div id="mydiv">
+
+    </div>
+    <script>
+        let form = document.getElementById("form1");
+        form.onsubmit = function(e) {
+            e.preventDefault();
+            var textValue = document.getElementById("form2").value;
+            document.getElementById("mydiv").innerHTML = textValue;
+        }
+        
+    </script>
+</body>
+</html>
