@@ -1,1 +1,2 @@
 The script gets run, so you can run into issues where you read a file with a script that could potentially harm you.
+This is a security issue.
